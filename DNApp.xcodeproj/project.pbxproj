@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		9B081B5E1B04E24D004F52EB /* Prototype in Resources */ = {isa = PBXBuildFile; fileRef = 9B081B5D1B04E24D004F52EB /* Prototype */; };
+		9B081BAB1B0CFC7F004F52EB /* LogInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B081BAA1B0CFC7F004F52EB /* LogInViewController.swift */; };
 		9BCF0AA01B039E290005E5AD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BCF0A9F1B039E290005E5AD /* AppDelegate.swift */; };
 		9BCF0AA21B039E290005E5AD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BCF0AA11B039E290005E5AD /* ViewController.swift */; };
 		9BCF0AA51B039E290005E5AD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BCF0AA31B039E290005E5AD /* Main.storyboard */; };
@@ -57,6 +58,7 @@
 
 /* Begin PBXFileReference section */
 		9B081B5D1B04E24D004F52EB /* Prototype */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Prototype; sourceTree = "<group>"; };
+		9B081BAA1B0CFC7F004F52EB /* LogInViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogInViewController.swift; sourceTree = "<group>"; };
 		9BCF0A9A1B039E290005E5AD /* DNApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DNApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BCF0A9E1B039E290005E5AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9BCF0A9F1B039E290005E5AD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -141,6 +143,7 @@
 				9BCF0AF51B03B8930005E5AD /* Spring */,
 				9BCF0A9F1B039E290005E5AD /* AppDelegate.swift */,
 				9BCF0AA11B039E290005E5AD /* ViewController.swift */,
+				9B081BAA1B0CFC7F004F52EB /* LogInViewController.swift */,
 				9BCF0AA31B039E290005E5AD /* Main.storyboard */,
 				9B081B5D1B04E24D004F52EB /* Prototype */,
 				9BCF0AA61B039E290005E5AD /* Images.xcassets */,
@@ -323,6 +326,7 @@
 				9BCF0AA21B039E290005E5AD /* ViewController.swift in Sources */,
 				9BCF0B251B03B8930005E5AD /* SoundPlayer.swift in Sources */,
 				9BCF0B2C1B03B8930005E5AD /* SpringTextView.swift in Sources */,
+				9B081BAB1B0CFC7F004F52EB /* LogInViewController.swift in Sources */,
 				9BCF0AA01B039E290005E5AD /* AppDelegate.swift in Sources */,
 				9BCF0B1E1B03B8930005E5AD /* DesignableView.swift in Sources */,
 				9BCF0B271B03B8930005E5AD /* SpringAnimation.swift in Sources */,
