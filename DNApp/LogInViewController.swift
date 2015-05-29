@@ -10,10 +10,17 @@ import UIKit
 
 class LogInViewController: UIViewController {
 
-    override func viewDidLoad() {
-        super.viewDidLoad()
+        @IBOutlet weak var dialogView: DesignableView!
+    
+    @IBAction func loginButtonDidTouch(sender: AnyObject) {
+        
+        dialogView.animation = "shake"
+        dialogView.animate()
+    }
+        override func viewDidLoad() {
+            super.viewDidLoad()
 
-        // Do any additional setup after loading the view.
+        // Do something
     }
 
 }
